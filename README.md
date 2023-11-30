@@ -7,3 +7,6 @@ Real-Time Updates: The clock updates in real-time, reflecting the current time.
 12-Hour Format: The clock displays time in a 12-hour format, distinguishing between AM and PM.
 Circular Indicators: Each time indicator is represented by a circular SVG element, providing a visually appealing and interactive experience.
 Color Customization: The color of each circular indicator is customizable, adding a touch of personalization to the clock.
+
+
+Link👉:https://jayeshpatil9869.github.io/Digital-Clock/
