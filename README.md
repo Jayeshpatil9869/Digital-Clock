@@ -10,3 +10,6 @@ Color Customization: The color of each circular indicator is customizable, addin
 
 
 Link👉:https://jayeshpatil9869.github.io/Digital-Clock/
+
+
+"A dynamic and visually appealing clock implemented with HTML, CSS, and JavaScript, featuring circular indicators for hours, minutes, and seconds in a 12-hour format with customizable colors."
