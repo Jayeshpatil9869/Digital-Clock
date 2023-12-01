@@ -9,11 +9,6 @@ This repository contains a simple and elegant dynamic time clock implemented wit
 - **Circular Indicators:** Each time indicator is represented by a circular SVG element, providing a visually appealing and interactive experience.
 - **Color Customization:** The color of each circular indicator is customizable, adding a touch of personalization to the clock.
 
-## Usage
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Open the `index.html` file in a web browser to view the dynamic time clock.
-
 ## Link
 - https://jayeshpatil9869.github.io/Digital-Clock/
  
