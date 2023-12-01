@@ -20,4 +20,4 @@ This repository contains a simple and elegant dynamic time clock implemented wit
 Feel free to explore and modify the code to suit your preferences or integrate it into your projects. Contributions and suggestions are welcome!
 
 
-"A dynamic and visually appealing clock implemented with HTML, CSS, and JavaScript, featuring circular indicators for hours, minutes, and seconds in a 12-hour format with customizable colors."
+
